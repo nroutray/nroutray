@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Node.js
 - 📫 How to reach me: https://nishudevil.github.io
+
+![Nishudevil's github stats](https://github-readme-stats.vercel.app/api?username=nishudevil&show_icons=true&theme=cobalt)
+
 <!--
 **nishudevil/nishudevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
