@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on Node.js
 - 📫 How to reach me: https://nishudevil.github.io
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishudevil&theme=tokyonight)
 ![Nishudevil's github stats](https://github-readme-stats.vercel.app/api?username=nishudevil&show_icons=true&theme=cobalt)
 
 <!--
