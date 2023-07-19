@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=nishudevil.nishudevil)
-- 🔭 I’m currently working on Node.js
+- 🔭 I’m a Fullstack Developer : Keep coding !!!
 - 📫 How to reach me: https://nishudevil.github.io
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishudevil&theme=tokyonight)
