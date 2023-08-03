@@ -1,22 +1,38 @@
-### Hi there 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=nishudevil.nishudevil)
-- 🔭 I’m a Fullstack Developer : Debugging is like being the detective in a crime movie where you're also the murderer !!!
-- 📫 How to reach me: https://nishudevil.github.io
+<h2> Hey there 👋 I'm Nishant</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishudevil&theme=tokyonight)
-![Nishudevil's github stats](https://github-readme-stats.vercel.app/api?username=nishudevil&show_icons=true&theme=cobalt)
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<!--
-**nishudevil/nishudevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer and Information Sciences at University of Florida, Gainesville.
+- 💼 &nbsp; Former Fullstack Developer at Credit Suisse AG.
+- ✍️ &nbsp; Designing UIs and drilling CP as hobbies/side hustles.
 
-Here are some ideas to get you started:
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<br/>
+
+<a href="https://github.com/nishudevil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishudevil&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishudevil&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nishant-routray-081222111/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishant%20Routray-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:nishant.routray@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nishant.routray@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
