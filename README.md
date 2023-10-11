@@ -35,4 +35,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/nishant-routray-081222111/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishant%20Routray-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nishant.routray@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nishant.routray@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+[![@nishudevil's Digital badges](https://holopin.me/nishudevil)](https://holopin.io/@nishudevil)  
 </p>
