@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer and Information Sciences at University of Florida, Gainesville.
-- 💼 &nbsp; Former Fullstack Developer at Credit Suisse AG.
+- 💼 &nbsp; Former Fullstack Developer at Credit Suisse Group AG.
 - ✍️ &nbsp; Designing UIs and drilling CP as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -23,12 +23,11 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 <br/>
 
-<a href="https://github.com/nishudevil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishudevil&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishudevil&theme=buefy&layout=compact" />
-</a>
-
-<br/>
+  <h1>
+    <a>
+        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=nishudevil&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishudevil&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+    </a>
+</h1>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
