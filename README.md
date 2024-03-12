@@ -23,6 +23,8 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 <br/>
 
+![temp](https://github.com/nishudevil/nishudevil/assets/33056648/085baaa4-607e-46bd-8c6f-16615d6a6859)
+
   <h1>
     <a>
         <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=nishudevil&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishudevil&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
