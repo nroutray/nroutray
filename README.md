@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer and Information Sciences at University of Florida, Gainesville.
-- 💼 &nbsp; Former Fullstack Developer at Credit Suisse Group AG.
+- 💼 &nbsp; Ex-Software Developer at Motorola Solutions and Credit Suisse Group AG.
 - ✍️ &nbsp; Designing UIs and drilling CP as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -23,13 +23,31 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 <br/>
 
-![temp](https://github.com/nishudevil/nishudevil/assets/33056648/085baaa4-607e-46bd-8c6f-16615d6a6859)
 
-  <h1>
-    <a>
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=nroutray&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nroutray&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-    </a>
-</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nroutray&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nroutray&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nroutray&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nroutray&theme=default" alt="Profile Details" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nroutray&theme=default" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nroutray&theme=default" alt="Most Commit Language" />
+</p>
+
+
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -39,3 +57,5 @@
 
 [![@nishudevil's Digital badges](https://holopin.me/nishudevil)](https://holopin.io/@nishudevil)  
 </p>
+
+
