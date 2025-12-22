@@ -3,8 +3,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer and Information Sciences at University of Florida, Gainesville.
+- 🤔 &nbsp; SDE II @ Microsoft
+- 🎓 &nbsp; Studied Computer and Information Sciences at University of Florida, Gainesville.
 - 💼 &nbsp; Ex-Software Developer at Motorola Solutions and Credit Suisse Group AG.
 - ✍️ &nbsp; Designing UIs and drilling CP as hobbies/side hustles.
 
