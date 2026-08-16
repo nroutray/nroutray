@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a855f7&height=200&section=header&text=Nishant%20Routray&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20II%20%40%20Microsoft&descSize=18&descAlignY=58" width="100%" alt="Nishant Routray" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a855f7&height=200&section=header&text=Nishant%20Routray&fontColor=ffffff&fontSize=54&fontAlignY=40" width="100%" alt="Nishant Routray" />
 
 <a href="https://nroutray.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer+II+%40+Microsoft;Azure+App+Configuration+%26+Service+Linker;Distributed+Systems+%7C+Cloud+Platforms;Generative+AI+%26+Agentic+Systems" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Distributed+Systems;Cloud+Platform+Engineering;Generative+AI+%26+Agentic+Systems;Competitive+Programming" alt="What I do" />
 </a>
 
 <br/>
